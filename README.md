@@ -54,7 +54,7 @@ and it would result in:
 >The difference between stupidity and genius 
 >is that genius has its limits.
 
-### How to Create a Table with Mardown:
+### How to Create a Table with Markdown:
 If you want a table on your website you need two things, a hyphen '-' and a pipe '|'. With these use the syntax code:
 
         First Header | Second Header
