@@ -17,7 +17,7 @@ A growth mindset is one in which you believe that your fundamental abilities can
  
 Markdown is a way of styling text on a webpage, with markdown you can:
 * Make text __bold__ or _italic_
-  - _You can **combine** both of these_ and have some fun!
+  - _You can **combine** both of these and have some **fun**!_
 * Add images
 * Make lists (just like this one I've made right here!) 
   - To make a bulleted list use '-' or '*' 
