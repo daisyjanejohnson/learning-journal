@@ -41,7 +41,7 @@ Markdown is a way of styling text on a webpage, with markdown you can:
 * To add a image with Markdown add the name of the image and URL into this syntax '''![Alt Text]+(url)'''
 * For example if I wanted to add a cute picture of a cat to this page I would put:
 
-        ![Cute Kitty]+(https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_weight_other/1800x1200_cat_weight_other.jpg?resize=600px:*)
+        '![Cute Kitty](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_weight_other/1800x1200_cat_weight_other.jpg?resize=600px:*)'
 
 and it would result in:
 
@@ -55,3 +55,20 @@ and it would result in:
 >The difference between stupidity and genius 
 >is that genius has its limits.
 
+### How to Create a Table with Mardown:
+If you want a table on your website you need two things, a hyphen '-' and a pipe '|'. With these use the syntax code:
+
+        First Header | Second Header
+        ------------ | -------------
+        Content from cell 1 | Content from cell 2
+        Content in the first column | Content in the second column
+        
+Add whatever content you want and you should get something like this:
+
+## Should I Eat Some Ice Cream?
+
+__Pros__ | __Cons__
+-----|------
+It tastes awesome|It might make me sick
+Its super delicious|A moment on the lips, forever on the hips
+I deserve a treat|I can't think of any more, I'm going to eat it
