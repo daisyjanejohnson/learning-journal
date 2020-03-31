@@ -1,6 +1,6 @@
 # My Learning Journal
 
-### Growth Mindset :grinning:
+### Growth Mindset 
 
 A growth mindset is one in which you believe that your fundamental abilities can be further developed through perserverence and effort
 - Remember to learn from criticism.
