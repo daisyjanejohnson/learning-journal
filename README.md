@@ -38,7 +38,20 @@ Markdown is a way of styling text on a webpage, with markdown you can:
 # until your header is the size you want!
 
 ### How to add images:
-* To add a image with Markdown add the name of the image and URL into this syntax '![Alt Text]+(url)'
-* For example if I wanted to add a cute picture of a cat to this page I would put '![Cute Kitty]+(https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_weight_other/1800x1200_cat_weight_other.jpg?resize=600px:*)' and it would result in:
+* To add a image with Markdown add the name of the image and URL into this syntax '''![Alt Text]+(url)'''
+* For example if I wanted to add a cute picture of a cat to this page I would put:
+
+        ![Cute Kitty]+(https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_weight_other/1800x1200_cat_weight_other.jpg?resize=600px:*)
+
+and it would result in:
+
 ![Cute Kitty](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_weight_other/1800x1200_cat_weight_other.jpg?resize=600px:*)
+
+### Using Quoted Text:
+  A lot of people have said some pretty quotable things, so it's important to know how to incorporate that with Markdown. 
+  To use blockquotes simply put a '>' before every line of quoted text.
+ 
+ *Albert Einstein once said:*
+>The difference between stupidity and genius 
+>is that genius has its limits.
 
