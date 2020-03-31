@@ -22,7 +22,6 @@ A growth mindset is one in which you believe that your fundamental abilities can
 Markdown is a way of styling text on a webpage, with markdown you can:
 * Make text __bold__ or _italic_
   - ***You can combine both of these and have some fun!***
-* Add images
 * Make lists (just like this one I've made right here!) 
   - To make a bulleted list use '-' or '*' 
   - To make a ordered list use either '1.' or label each line in ascending order (1., 2., 3., etc.)
@@ -72,3 +71,10 @@ __Pros__ | __Cons__
 It tastes awesome|It might make me sick
 Its super delicious|A moment on the lips, forever on the hips
 I deserve a treat|I can't think of any more, I'm going to eat it
+
+### Strikethrough
+If you need to cross something out in a web page use the good ol' tilde ('~' This squiggly guy)
+Simply put the two tildes on either side of the text like so:
+        ~~I don't like this sentence so I'm striking through it~~
+        
+
