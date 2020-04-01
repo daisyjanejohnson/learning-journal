@@ -7,6 +7,7 @@
  
  * Text Edit = An editor that comes with Mac computers.
  * Notepad = An editor that comes with Windows computers.
+ * Notepad++ = A free text editor for Windows Computers only.
 
 # Important Text Editor Features
 
