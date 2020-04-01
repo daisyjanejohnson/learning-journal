@@ -2,9 +2,30 @@
 
 
 ## Code Editors / Tools
--
--
+
+ A text editor is a piece of software that you download and install on your computer, or you access online through yout web browser, that allows you to write and manage text, especially the text that you write to build a web site.
+ 
+ * Text Edit = An editor that comes with Mac computers.
+ * Notepad = An editor that comes with Windows computers.
+
+# Important Text Editor Features
+
+- Code Completion
+- Syntax Highlighting = A feature that takes the text you type, and makes it more noticeable by colorizing the text.
+- A nice variety of themes = Allows you to change the color of the background of your text editor and the color of your text to help avoid eye strain and fatigue.
+- A variety of extensions to choose from if you need them. Extensions are plugins that allow you to have "superpowers" you wouldn't have otherwise, and ensure that you have the ability to add funcionality as you need it.
 
 ## Command Line Prompts
--
--
+
+A command line (a.k.a. Terminal) is a text based interface to the system. You enter commands by typing them out and you recieve feedback similarily through text.
+
+- Within a terminal you have a **shell**. This is the part of the OS that defines how the terminal will behave and run commands for you. The most common shell is **bash**. To input this into your terminal 
+- **Relative Path**: A file or directory location relative to where we currently are in the file system. Does not begin with a slash.
+- **Absolute Path**: A file or directory location in relation to the root of the file system. Always begins with a forward slash (/).
+
+# Commands:
+- **Echo** = a command to display a system variable stating your shell.
+- **PWD** = "Print Working Directory", This command tells you what your current working directory is.
+- **LS** = "List", This command tells you what is in your current directory.
+- **CD** = "Change Directory", This command changes your location. To go to a specific location do cd [location]
+- 
