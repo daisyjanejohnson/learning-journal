@@ -17,7 +17,7 @@ A growth mindset is one in which you believe that your fundamental abilities can
 - Remember to persist through obstacles.
   - There is always a lesson to be learned within them!
   
- ### Markdown
+### Markdown
  
 Markdown is a way of styling text on a webpage, with markdown you can:
 * Make text __bold__ or _italic_
