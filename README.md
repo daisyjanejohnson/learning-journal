@@ -10,7 +10,7 @@
 ### Growth Mindset 
 
 A growth mindset is one in which you believe that your fundamental abilities can be further developed through perserverence and effort
-- Remember to learn from criticism.
++ Remember to learn from criticism.
   - Learning from you're own mistakes helps you not to make them again!
 * Remember to embrace challenges.
   - You will come out with a better understanding!
