@@ -20,7 +20,7 @@
   # Git vs. Github
   * Git is the recipe (the technology) while Github is the bakery where the recipe is made. 
   * Git is a version control system that lets multiple developers work on the same code.
-  *Github allows multiple team members to work on the file without messing each other up. 
+  * Github allows multiple team members to work on the file without messing each other up. 
   
 To use Git, your computer must have it available and it must be the latest version. [Thislink has instructions on how to download Git onto your computer and also how to set up a Git Repository](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/)
 
