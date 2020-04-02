@@ -35,10 +35,10 @@ Here is a link to a great website with a list of CMD commands: [CMD Commands](ht
 - **Absolute Path**: A file or directory location in relation to the root of the file system. Always begins with a forward slash (/).
 
 # Commands:
-- **echo** = a command to display a system variable stating your shell.
-- **pwd** = "Print Working Directory", This command tells you what your current working directory is.
-- **ls** = "List", This command tells you what is in your current directory.
-- **cd** = "Change Directory", This command changes your location. To go to a specific location do cd [location]
-- **mkdir** = "Make Directory", like it says this creates a new directory.
-- **touch** = creates a new file.
+- `echo` = a command to display a system variable stating your shell.
+- `pwd` = "Print Working Directory", This command tells you what your current working directory is.
+- `ls` = "List", This command tells you what is in your current directory.
+- `cd` = "Change Directory", This command changes your location. To go to a specific location do cd [location]
+- `mkdir` = "Make Directory", like it says this creates a new directory.
+- `touch` = creates a new file.
 
