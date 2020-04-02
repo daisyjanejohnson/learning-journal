@@ -19,6 +19,21 @@
   
 To use Git, your computer must have it available and it must be the latest version. [Thislink has instructions on how to download Git onto your computer and also how to set up a Git Repository](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/)
 
+**TO CLONE A REPO**
+```
+git clone linkurl
+ls (to check if repo is there) 
+code . (opens repo in VS code)
+```
+Then when you make changes in VS code, use A-C-P (Add, Commit, Push)
+
+```
+git add name of file
+git commit -m "commit message"
+git push origin master
+```
+Then use `git status` to see if your changes went through.
+
 You can access the manual on Git to get more info on a particular command by using one of three different codes:
 ```
 git help command
