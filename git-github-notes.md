@@ -66,3 +66,8 @@ After staging one or multiple files, commit the changes and record what was done
 
 After commiting changes, push changes to a remote repository with command: `$ git push origin master`
 
+***Stashing Changes***
+
+When you are not ready to commit changes but don't want to lose them either `git stash` temporarily removes changes and hides them giving you a clean working directory. When you are ready tocontinue working on the changes use `git stash apply` to retrieve the hidden changes.
+
+
