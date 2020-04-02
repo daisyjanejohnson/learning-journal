@@ -8,6 +8,7 @@
 - [Markdown](markdown-notes.md)
 - [Computer Setup](computer-setup.md)
 - [Git v Github](git-github-notes.md)
+- [What Lab 03 Taught Me](learning-exercise.md)
 
 
   
