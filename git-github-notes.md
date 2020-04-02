@@ -2,9 +2,9 @@
 
 ## To understand git you must first understand Version Control
 
-- **Version Control** is a system that allows you to revisit various versions of a file or set of files by recording changes. With VC you can revert a file or project to a previous version, teack modifications and modifying individuals, and compare changes. By using a **Version Control System (VCS)**, mistakes with files can be easily fixed.
+- **Version Control** is a system that allows you to revisit various versions of a file or set of files by recording changes. With VC you can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By using a **Version Control System (VCS)**, mistakes with files can be easily fixed.
 - **Local Version Control** entails one database on your hard disk that stores changes to files.
-- **Centralized Version Control System (CVCS)** entails a single server storing all changes and file versions which can be accessed by carious clients. This eliminates the need to involve all local databases and allows programmers to have more knowledge of other people's activities with certain files and gives administrators the ability to divy up revision priveledges. 
+- **Centralized Version Control System (CVCS)** entails a single server storing all changes and file versions which can be accessed by various clients. This eliminates the need to involve all local databases and allows programmers to have more knowledge of other people's activities with certain files and gives administrators the ability to divy up revision priveledges. 
 - **Distributed Version Control Systems (DVCS)** allows clients to create mirrored repositories, these data backups can be placed on the server to replace any lost information.
 
 ## What is Git?
@@ -22,7 +22,7 @@
   * Git is a version control system that lets multiple developers work on the same code.
   * Github allows multiple team members to work on the file without messing each other up. 
   
-To use Git, your computer must have it available and it must be the latest version. [Thislink has instructions on how to download Git onto your computer and also how to set up a Git Repository](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/)
+To use Git, your computer must have it available and it must be the latest version. [This link has instructions on how to download Git onto your computer and also how to set up a Git Repository](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/)
 
 **TO CLONE A REPO**
 ```
@@ -88,6 +88,6 @@ After commiting changes, push changes to a remote repository with command: `$ gi
 
 ***Stashing Changes***
 
-When you are not ready to commit changes but don't want to lose them either `git stash` temporarily removes changes and hides them giving you a clean working directory. When you are ready tocontinue working on the changes use `git stash apply` to retrieve the hidden changes.
+When you are not ready to commit changes but don't want to lose them either `git stash` temporarily removes changes and hides them giving you a clean working directory. When you are ready to continue working on the changes use `git stash apply` to retrieve the hidden changes.
 
 
