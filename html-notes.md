@@ -34,10 +34,12 @@ After deciding what needs to appear on your website, you need to organize the in
 * HTML uses **tags** (characters that sit within angled brackets) to give the information they surround meaning.
 * Tags are often reffered to as elements.
 * Tags usually come in pairs. The opening tag denotes the start of a piece of content, the closing tag denotes the end. 
-* **Attribues** require a 
+* **Attributes** require a 
 *name* and a *value*.
-    * Name = wha5t kind of information you are supplying about the elements contents.
+    * Name = what kind of information you are supplying about the elements contents.
     * Value = the information or setting for the sttribute. Should be in double quotes.
+* `<body>`: What you see on the wb browser page.
+* `<head>`: All the information about the page.
 
 ## HTML5 Layout (Chapter 17)
 
