@@ -16,7 +16,7 @@ After deciding what needs to appear on your website, you need to organize the in
 * A **site map** is a diagram of the pages that will be used to structure the site. This shows how the pages will be grouped. 
 * A **site map** usually begins with a homepage, and the other pages are compartmentalized into sections that are linked to the homepage.
 
-* A **wirefram** is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of information and how much space it might require.
+* A **wireframe** is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of information and how much space it might require.
 
 ### Design
 
@@ -37,7 +37,7 @@ After deciding what needs to appear on your website, you need to organize the in
 * **Attributes** require a 
 *name* and a *value*.
     * Name = what kind of information you are supplying about the elements contents.
-    * Value = the information or setting for the sttribute. Should be in double quotes.
+    * Value = the information or setting for the attribute. Should be in double quotes.
 
 **ELEMENTS**
 * `<body>`: What you see on the wb browser page.
@@ -51,7 +51,7 @@ After deciding what needs to appear on your website, you need to organize the in
 *
 ## HTML5 Layout (Chapter 17)
 
-* The `<div>` element is used to group together related elenments on the page.
+* The `<div>` element is used to group together related elements on the page.
 * The class or id attributes indicate the role of the `<div>` element in the structure of the page.
 
 ### HTML5 Layout Elements:
@@ -72,7 +72,7 @@ After deciding what needs to appear on your website, you need to organize the in
 ## Extra Markup (Chapter 8)
 
 * Because there are several versions of HTML, each web page should begin with a DOCTYPE declaration on top to tell what type it is.
-* If you want to adda comment in the code that isn't visible in the user's browser use: `<!--comment goes here-->`
+* If you want to add a comment in the code that isn't visible in the user's browser use: `<!--comment goes here-->`
 * The **id attribute** is used to uniquely identify an elemnt from other elements on the page. Its value should start with a letter or an underscore. The **id attribute** is known as a global attribute because it can be used on any element.
 * The **class attribute** gives a way to identify several elements as being different from the other elements on the page. Its value should describe the class it belongs to.
-* **Block Elements** are elemnts that will always appear to start on a new line in the browser window. Examples of block elements are: `<h1>`, `<p>`,`<ul>`, and `<li>`.
+* **Block Elements** are elements that will always appear to start on a new line in the browser window. Examples of block elements are: `<h1>`, `<p>`,`<ul>`, and `<li>`.
