@@ -38,9 +38,17 @@ After deciding what needs to appear on your website, you need to organize the in
 *name* and a *value*.
     * Name = what kind of information you are supplying about the elements contents.
     * Value = the information or setting for the sttribute. Should be in double quotes.
+
+**ELEMENTS**
 * `<body>`: What you see on the wb browser page.
 * `<head>`: All the information about the page.
+* `<p>`: Paragraph
+* `<ul>`: Unordered List
+* `<ol>`: Ordered List
+* `<h1>`: Level 1 Header
+* `<nav>`: Navigation
 
+*
 ## HTML5 Layout (Chapter 17)
 
 * The `<div>` element is used to group together related elenments on the page.
