@@ -11,4 +11,4 @@ git push origin master
 
 * It is important to often use `git status` to check if there are any files that need to be saved. `git status` should be the go to if you are lost.
 
-* Read your code over multiple times to ensure there are no typos, then go to the live url to check that evrything works and looks the way you want. 
+* Read your code over multiple times to ensure there are no typos, then go to the live url to check that everything works and looks the way you want. 
