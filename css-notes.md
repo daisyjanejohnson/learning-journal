@@ -15,8 +15,8 @@
 
 - The color property allows you to specify the color of text inside of an element. You can specify any color in CSS in one of three ways:
     - **RGB Values** express colors in terms of how much red, green, and blue are used to make it up. Ex.) `rgb(100.100.90)`.
-    - **Hex codes** are six-digit codes that represent the amount of red, green and blue in a color preceded by a pound or a `#` sign. Ex.) `#ee3e80
-    - The **Color Names** are 147 predefined names that are recognized by browsers. Ex.) DarkCyan
+    - **Hex codes** are six-digit codes that represent the amount of red, green and blue in a color preceded by a pound or a `#` sign. Ex.) `#ee3e80`
+    - The **Color Names** are 147 predefined names that are recognized by browsers. Ex.) `DarkCyan`
 
 - CSS treats each HTML element as if it appears in a box, and the **backround-color** property sets the color of the background for that box.
 
