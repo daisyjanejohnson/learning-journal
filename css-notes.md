@@ -3,7 +3,7 @@
 - HTML is the barebones of a website while CSS is what makes your page all pretty and nice to look at.
 - The key to understanding how CSS works is to imagine there is an invisible box around every HTML element.
 - CSS work by associating **rules** with HTML elements. These **rules** govern how th content of specified elements should be displayed. A CSS **rule** contains two parts a **selector** and a **declaration**.
-    - **Selectors** indicate which elemnt the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
+    - **Selectors** indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
     - **Declarations** indicate how the elements reffered to in the selector should be styled. Declarations are split into two parts (a property and a value), and are separated by a colon.
         - *Properties* indicate the aspects of the element you want to change. Ex.) color, font, width, height and border.
         - *Values* specify the settings you want to use for the chosen properties. ex.) the value is a the color you want to specify the font to be.
