@@ -1,21 +1,21 @@
 ## How Computers Work
 
 ### What makes a computer a computer?:
-- Computers were built as a tool to help "thinking work, and designed to manipulate information.
+- Computers were built as a tool to help "thinking work" and designed to manipulate information.
 - Had to perform 4 different tasks:
     1. **Take input**
         - The stuff that the world does, or you do that makes the computer do stuff. Ex.) a Touch screen recognizing your finger and activating.
     1. **Store information** 
-        - Inputs gives a computer information, which is then stored in memory. 
+        - The input gives the computer information, which is then stored in memory.
     1. **Process it**
-        - A computer's processor takes the information from memory and manipulates it or "changes it" usin an algorithm which is just a series of commands. It then sends the processed info back to be stored and this continues until the information is ready to be output.
+        - A computer's processor takes the information from memory and manipulates it or "changes it" using an algorithm which is just a series of commands. It then sends the processed info back to be stored and this continues until the information is ready to be output.
     1. **Output results**
         - How the computer outputs information depends on what the computer is designed to do. Ex.) a computer display can show text, videos, pictures, or games.
-- Started out as basic calcuators, now they can do limitless things.
+- Started as basic calcuators, now they can do limitless things.
 
 ### Data and Binary
-- In side a computer there are electric wires and circuits that carry all the information in a computer. The electricity running through a wire can either be on or off. With one wire it can be on or off which can mean yes or no, true or false, 1 or 0, or anything else with only two options. 
-This on/off state of a single wire is called a **bit**, it is the smallest piece of information a computer can store. With more wires you can store more bits thus more information.
+- Inside a computer, some electric wires and circuits carry all the information within a computer. The electricity running through a wire can either be on or off. With one wire it can be on or off which can mean yes or no, true or false, 1 or 0, or anything else with only two options.
+ This on/off state of a single wire is called a bit, it is the smallest piece of information a computer can store. With more wires, you can store more bits thus more information.
 - Binary Number System
     - Two digits, 0 and 1
     - Any number can be represented, you store them on the wires and the more wires the bigger the numbers you can store. 
@@ -36,7 +36,7 @@ When you press a key on your keyboard (let's say the letter `H`), the keyboard c
 
 ### Hardware and Software
 
-- **Hardware**: All of the things you see inside a computng device such as circuits, chips, wires, speakers, plugs, etc.
+- **Hardware**: All of the things you see inside a computing device such as circuits, chips, wires, speakers, plugs, etc.
 - **Software**: All of the things you don't see. The computer programs, or code, running on the machine. Can be anything from apps and games, to web pages.
 
 #### How does the Hardware and Software interact together?
@@ -45,7 +45,7 @@ When you press a key on your keyboard (let's say the letter `H`), the keyboard c
 It recieves simple commands that tell it which circuit to use to do a certain job. Example: 
     - An `add` command tells the CPU to use its outer circuit to calculate a new number.
     - The `store` command tells the CPU to use a different circuit to save that result into memory
-- Binary code is the most baisc form of software and it controls all the hardware of a computer. Programming languages (like JavaScript or Python) allows you type in commands that look a lot like english, this high level comman is converted into hundreds, or thousands, of simpler binary commands that the CPU understands.
+- Binary code is the most baisc form of software and it controls all the hardware of a computer. Programming languages (like JavaScript or Python) allows you type in commands that look a lot like english, this high level command is converted into hundreds, or thousands, of simpler binary commands that the CPU understands.
 - **Operating System**: The master program that manages how software uses the hardware of a computer. It has special abilities that allows it to control other software on a computer. It decides when the CPU can run a program and whther that program can access the computers input and output devices.
     - When multiple software programs are running the operating system is quickly switching programs, sharing the CPU between them for fractions of a second.
 
