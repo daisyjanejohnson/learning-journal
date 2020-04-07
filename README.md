@@ -13,6 +13,7 @@
 - [CSS NOTES](css-notes.md)
 - [JavaScript Notes](javascript-notes.md)
 - [How Computers Work Notes](computers-notes.md)
+- [Function Notes](function-notes.md)
 
 
         
