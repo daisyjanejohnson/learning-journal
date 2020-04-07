@@ -5,14 +5,14 @@
 - React to events triggered by the user or browser.
 
 ### Script
-- A script is a series of instructions that a computer can follow to achieve a goal. Sxripts are like recipes.
+- A script is a series of instructions that a computer can follow to achieve a goal. Scripts are like recipes.
 - To write a script you need to:
     1. Define the goal.
     1. Design the script.
     3. Code each step.
  -**Vocabulary**: The words that computers understand.
  -**Syntax**: How you put those words together to create instructions computers can follow.
- - **Programmatically**: Follow series of instructions one after another.
+ - **Programmatically**: Follow a series of instructions one after another.
 
  ### Expressions and Operators
 
