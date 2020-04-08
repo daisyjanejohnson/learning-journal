@@ -14,7 +14,7 @@
 - [JavaScript Notes](javascript-notes.md)
 - [How Computers Work Notes](computers-notes.md)
 - [Function Notes](function-notes.md)
-
+- [For and While loops](loop-notes.md)
 
         
 
